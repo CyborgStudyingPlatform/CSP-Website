@@ -9,4 +9,4 @@ def home_view():
 
 @app.route("/about")
 def about():
-    return "<h2>About page</h2>"
+    return "<h1>About page</h1>"
